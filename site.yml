@@ -1,17 +1,18 @@
-title : mili
+title : mili    
 tagline: Blog Tagline
-author : mili
-  name : Firstname Lastname
-  email : miliwanderful@gmail.com
+author :
+  name : mili
+  email : blah@email.test
   github : username
   twitter : username
   feedburner : feedname
 
 navigation :
-  - archive.html        
+  - archive.html
   - tags.html
-  - categories.html
   - projects.html
+  - categories.html
   - pages.html
   - about.md
-  
+
+ 

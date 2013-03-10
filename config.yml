@@ -12,3 +12,13 @@ posts:
 
 pages:
   permalink: 'pretty'
+
+layout : disqus
+disqus :
+  short_name : mili2
+
+layout : google
+google : 
+    tracking_id : 'UA-39156679-1'
+getclicky :
+  site_id :
