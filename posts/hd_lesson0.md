@@ -27,3 +27,5 @@ tags: [hackdesign, translation]
 产品设计，[Kicksend](http://kicksend.com/)
 
 > 我是一个生活在硅谷的交互设计师，现就职于[Kicksend](http://kicksend.com/)。我热衷于为网页和移动产品设计干净且易用的用户界面。[ Startups, this is how design works](http://startupsthisishowdesignworks.com/)与[Retina Mac Apps](http://retinamacapps.com/)是我的作品。
+
+[原文链接（墙外）](http://hackdesign.org/lesson/0/)
