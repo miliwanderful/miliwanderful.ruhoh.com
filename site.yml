@@ -10,9 +10,8 @@ author :
 navigation :
   - archive.html
   - tags.html
-  - projects.html
   - categories.html
-  - pages.html
+  - projects.html
   - about.md
 
  
